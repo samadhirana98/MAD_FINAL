@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health App</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="result">result</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight" />
+</resources>
